@@ -1,5 +1,5 @@
 # kod-asistan-m 
-name surname : Efe baran Akdoğan
+name surname : Efe baran Akdoğan no : 6547 şube: 9/C
 v.0.1
 kullanım amaçları : günlük  hayatta küçük basit işlerde yardımcı olmak için yapılmıştır örneğin  hesaplama,yazı yazdırma,soru cevaplama, kod düzeltme 
  v.2.0 hedefleri : kullancıya özel muamele , görsel üretme , sohbet modları
